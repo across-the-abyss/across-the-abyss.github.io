@@ -1,0 +1,21 @@
+baseURL = 'https://acrosstheabyss.com/'
+author = 'Christian Maher'
+copyright = 'Christian Maher'
+title = 'Across the Abyss'
+languageCode = 'en-us'
+theme = "hugo-bearblog"
+
+[pagination]
+  pagerSize = 10
+
+[taxonomies]
+  # category = "categories"
+  tag = "tags"
+  # series = "series"        
+
+[params]
+  hideMadeWithLine = false
+
+[caches]
+[caches.images]
+dir = ':cacheDir/images'
