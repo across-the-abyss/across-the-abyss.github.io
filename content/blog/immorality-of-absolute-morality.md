@@ -51,8 +51,6 @@ attention that this person is a virulent racist. Shit. How can you get out of th
 Try to ensure that no more money, or as close to little money as possible, goes to the racist. If any money does go to
 the racist, offset it with donations to groups that combat racism and antisemitism.
 
-*Risk Assessment*
-
 Understanding this choice requires us to assess the risk of the possibility of paying the racist. Choose your own
 percentages, but I think the likely outcome is the following on the roll of a d1000:
 
