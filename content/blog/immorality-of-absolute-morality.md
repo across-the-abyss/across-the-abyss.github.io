@@ -8,30 +8,30 @@ working with Judges Guild (headed by a known racist and anti-semite) to publish 
 Invincible Overlord*, a classic D&D module. The general tenor of the reaction on
 their [two](https://bsky.app/profile/goodmangames.bsky.social/post/3lookicwshk2j) [statements](https://bsky.app/profile/goodmangames.bsky.social/post/3lor64py4wc24)
 would have you believe it is as
-cut-and-dry as that; the reality is, of course, a bit hairier.
+cut-and-dried as that; the reality is, of course, a bit hairier.
 
-Now, I'm not particularly a Goodman Games fan. I've played a bit of DCC, and I've taken the Might Deed die for my custom
+Now, I'm not particularly a Goodman Games fan. I've played a bit of DCC, and I've taken the Mighty Deed die for my custom
 rules set, but that's about the extent of my involvement with the company. So why, why am I choosing to wade into the
 muck of this debacle, where surely nothing good awaits me?
 Primarily, it's because I'm disappointed by the structure of conversations that social media tends to encourage. It
 reduces everything to small quips, misrepresented facts, and only the hottest of takes. But secondly, I'm interested in
 moral frameworks and the
 quandaries by which they are tested. This is partly what drew me to RPGs in the first place. And this situation provides
-such a richly laid out battle between a moral framework and moral absolutes.
+such a richly laid out battle between moral absolutes and moral frameworks.
 
 ## Morality Meets Reality
-
-A moral framework is a means of examining a situation and trying to come out of it while still managing to be proud of
-yourself at the other end. It is generally not interesting unless the choices are hard. It balances the consequences of
-upholding one's morals against the consequences of breaking them.
 
 In contrast to a framework, a moral absolute is a universal statement that exists outside any concrete situation. In
 this case, the arguments
 that I've seen here and on the internet as large boils down to the moral absolute: "you should never do business with
 racists and antisemites." This is a good rule to live by!.
 But the problem with moral absolutes is that they erase ALL nuance, by design. This is what makes them so useful on
-social media. They quickly allow one to assess who is in the in-group, and who is in the out-group. It does not,
+social media. A moral absolute is a clear line in the sand that allows one to quickly assess who is in the in-group, and who is in the out-group. It does not,
 however, make them especially good building blocks for a moral framework
+
+A moral framework is a means of examining a situation and trying to come out of it while still managing to be proud of
+yourself at the other end. It is generally not interesting unless the choices are hard. It balances the consequences of
+upholding one's morals against the consequences of breaking them.
 
 One of the absolutes that forms the foundations of my moral framework is that I consider it immoral to hold others to a
 higher standard than I would hold myself. This means that I need to consider the morality of the *situation as it
