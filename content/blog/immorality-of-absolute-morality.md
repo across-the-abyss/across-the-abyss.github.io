@@ -21,7 +21,7 @@ such a richly laid out battle between moral absolutes and moral frameworks.
 
 ## Morality Meets Reality
 
-In contrast to a framework, a moral absolute is a universal statement that exists outside any concrete situation. In
+A moral absolute is a universal statement that exists outside any concrete situation. In
 this case, the arguments
 that I've seen here and on the internet as large boils down to the moral absolute: "you should never do business with
 racists and antisemites." This is a good rule to live by!.
@@ -29,7 +29,7 @@ But the problem with moral absolutes is that they erase ALL nuance, by design. T
 social media. A moral absolute is a clear line in the sand that allows one to quickly assess who is in the in-group, and who is in the out-group. It does not,
 however, make them especially good building blocks for a moral framework
 
-A moral framework is a means of examining a situation and trying to come out of it while still managing to be proud of
+In contrast to a moral absolute, a moral framework is a means of examining a situation and trying to come out of it while still managing to be proud of
 yourself at the other end. It is generally not interesting unless the choices are hard. It balances the consequences of
 upholding one's morals against the consequences of breaking them.
 
